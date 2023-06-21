@@ -36,13 +36,13 @@
 
    <p>
     
-     Download weight -->  https://drive.google.com/file/d/1Io7XdzJXnCeDClk6J_3SEdCwz4Zk0L_l/view?usp=sharing
+    Download weight -->  https://drive.google.com/file/d/1Io7XdzJXnCeDClk6J_3SEdCwz4Zk0L_l/view?usp=sharing
         
    </p>
 
    <p>
     
-     Download ultralytics --> https://drive.google.com/drive/folders/1rGKpwbTHLW3wUmq2PwotgN7ntSRez5WI?usp=sharing
+    Download ultralytics --> https://drive.google.com/drive/folders/1rGKpwbTHLW3wUmq2PwotgN7ntSRez5WI?usp=sharing
         
    </p>
   
@@ -55,6 +55,7 @@
 
 <h3> Demo </h3>
 <p>Lisense Plate Detection Using YOLO_V8</p>
+
   ![](Output_ScreenShot/Test1.PNG)
   <P> OCR Result--> Txt  Ayo 4952 Conf:  0.3558492383989794 </P>
   
