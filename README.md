@@ -1,11 +1,11 @@
 # License_Plate_Detection
 
-  <h1>**Code Contain**<h1>
+  <h1>Code Contain<h1>
    1. Detection of License Plate Using YOLO_V8 
    2. Extract the txt and OCR Confidence Number  from Croping Licesne Plate using EasyOCR 
 
 
- <h2> **Steps To Run**</h2>
+ <h2>Steps To Run</h2>
 
    <p>
     
