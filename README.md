@@ -7,7 +7,7 @@
 
   **Steps To Run**
   
-  Clone the Repo -->  git clone https://github.com/SondosEmara/License_Plate_Detection.git
+     <p>Clone the Repo -->  git clone https://github.com/SondosEmara/License_Plate_Detection.git</p>p
   
   2. cd License_Plate_Detection
   3. pip install --upgrade pip
