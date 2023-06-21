@@ -9,7 +9,7 @@
 
    <p>
     
-      1. git clone https://github.com/SondosEmara/License_Plate_Detection.git
+        git clone https://github.com/SondosEmara/License_Plate_Detection.git
       
    </p> 
      cd License_Plate_Detection
