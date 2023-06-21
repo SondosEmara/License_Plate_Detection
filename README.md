@@ -6,6 +6,7 @@
 
 
   **Steps To Run**
+  
   Clone the Repo -->  git clone https://github.com/SondosEmara/License_Plate_Detection.git
   
   2. cd License_Plate_Detection
