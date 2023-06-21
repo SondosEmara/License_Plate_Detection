@@ -13,7 +13,7 @@
         
    </p> 
 
-    <p>
+   <p>
     
     cd License_Plate_Detection
         
