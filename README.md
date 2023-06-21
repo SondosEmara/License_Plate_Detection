@@ -57,7 +57,7 @@
 <p>Lisense Plate Detection Using YOLO_V8</p>
 
   **Test_1**
-  <P> OCR Result--> Txt (Ayo 4952) , Conf:(0.3558492383989794) </P>
+  <P> OCR Result--> Txt (ayo 4952) , Conf:(0.3558492383989794) </P>
   
   ![](Output_ScreenShot/Test1.PNG)
   
@@ -67,7 +67,7 @@
    
   ![](Output_ScreenShot/Test2.PNG)
   
-  <P> OCR Result--> Txt  (N-894-J) , Conf: (0.7528173547376241)  </P>
+  <P> OCR Result--> Txt  (n-894-j) , Conf: (0.7528173547376241)  </P>
 
 
 
