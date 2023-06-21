@@ -5,7 +5,8 @@
     
    1. Detection of License Plate Using YOLO_V8 
     
-   2. Extract the txt and OCR Confidence Number  from Croping Licesne Plate using EasyOCR 
+   2. Extract the txt and OCR Confidence Number  from Croping Licesne Plate using EasyOCR
+      
   </p>
 
 
