@@ -27,7 +27,7 @@ class OCRModel:
         #result[0][1]-->txt
         #result[0][2]-->ConfNumber
           
-        return result[0][1],result[0][2]
+        return result[0][1].lower(),result[0][2]
 
         
         
