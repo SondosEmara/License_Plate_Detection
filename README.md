@@ -19,6 +19,15 @@
      4. Install all Library that used in Code
      pip install -r requirements.txt
 
+
+     Steps to run Code
+Clone the repository.
+git clone https://github.com/noorkhokhar99/Automatic-Number-Plate-Recognition-using-Yolov8-and-EasyOCR-Full-Course-Python.git
+Goto the cloned folder.
+cd Automatic-Number-Plate-Recognition-using-Yolov8-and-EasyOCR-Full-Course-Python
+
+Upgrade pip with mentioned command below.
+
      5.Final Run Code 
      python LicensePlate.py
      
