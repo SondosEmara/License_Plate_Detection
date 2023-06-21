@@ -33,6 +33,19 @@
     pip install -r requirements.txt
         
    </p>
+
+    <p>
+    
+     Download weight -->  https://drive.google.com/file/d/1Io7XdzJXnCeDClk6J_3SEdCwz4Zk0L_l/view?usp=sharing
+        
+    </p>
+
+    <p>
+    
+     Download ultralytics --> https://drive.google.com/drive/folders/1rGKpwbTHLW3wUmq2PwotgN7ntSRez5WI?usp=sharing
+        
+    </p>
+  
    <p>
     
     python LicensePlate.py
