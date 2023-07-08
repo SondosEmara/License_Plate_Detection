@@ -42,7 +42,7 @@
 
    <p>
     
-    Download ultralytics --> https://drive.google.com/drive/folders/1rGKpwbTHLW3wUmq2PwotgN7ntSRez5WI?usp=sharing
+    Download ultralytics --> https://drive.google.com/file/d/1qL5NnH1zJAtu2SOrHn736DGFSXQQrH5A/view?usp=sharing
         
    </p>
   
