@@ -9,6 +9,11 @@
       
   </p>
 
+  <p>
+    Input--> Vechicle Image
+    Output--> The PaddleOCR Txt AND the Probaility of that txt.
+  </p>
+
 
  <h2>Steps To Run</h2>
 
