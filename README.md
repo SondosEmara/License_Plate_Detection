@@ -8,7 +8,8 @@
    2. Extract the txt and OCR Confidence Number  from Croping Licesne Plate using PaddleOCR
       
   </p>
-
+  
+  <h1>Expected Input and Output</h1>
   <p>
        Input--> Vechicle Image<br>
        Output--> The PaddleOCR Txt AND the Probaility of that txt.
