@@ -4,6 +4,12 @@ import cv2
 import paddle
 from paddleocr import PaddleOCR
 
+"""
+Version1:using Easy Ocr
+
+Version 2:LicensePlate Using Paddle Ocr Instead of  the EasyOCR
+
+"""
 class LicensePlate:
     
     
