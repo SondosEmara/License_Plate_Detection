@@ -10,10 +10,10 @@
   </p>
   
   <h1>Expected Input and Output</h1>
-  <p>
+       <p>
        Input--> Vechicle Image<br>
        Output--> The PaddleOCR Txt AND the Probaility of that txt.
-  </p>
+       </p>
 
 
  <h2>Steps To Run</h2>
