@@ -68,7 +68,7 @@
   1. docker build -t imageName .
 
      
-  3. docker run -it imageName
+  2.docker run -it imageName 
   </p>
   
   
