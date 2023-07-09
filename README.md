@@ -52,7 +52,6 @@
         
    </p>
 
-
 <h3> Demo </h3>
 <p>Lisense Plate Detection Using YOLO_V8</p>
 
@@ -60,9 +59,13 @@
   
   
   ![](Output_ScreenShot/Output_Examples.PNG)
+
+  <h4> Run Docker File Commands </h4>
+  The User Will Enter the Image Path so I make the command docker is interactive with input
+  1. docker build -t imageName .
+  2. docker run -it imageName
   
   
-<h4> Run Docker File </h4>
   
   
 
