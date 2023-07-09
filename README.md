@@ -10,8 +10,8 @@
   </p>
 
   <p>
-    Input--> Vechicle Image<br>
-    Output--> The PaddleOCR Txt AND the Probaility of that txt.
+       Input--> Vechicle Image<br>
+       Output--> The PaddleOCR Txt AND the Probaility of that txt.
   </p>
 
 
