@@ -60,10 +60,13 @@
   
   ![](Output_ScreenShot/Output_Examples.PNG)
 
+
   <h4> Run Docker File Commands </h4>
+  <p>
   The User Will Enter the Image Path so I make the command docker is interactive with input
   1. docker build -t imageName .
   2. docker run -it imageName
+  </p>
   
   
   
